@@ -8,10 +8,6 @@ This is only a list of aliases that map the uppercase name of the symbol/pictogr
 * Paste the contents of `picto_bash_profile` into your `~/.bash_profile` or `/etc/bashrc` 
 * Then `source ~/.bash_profile`
 
-One liner install like a boss:
-
-    wget path/to/raw/file -O >> ~/.bash_profile && source ~/.bash_profile
-
 ###Usage
 All aliases are UPPERCASE, so to search, you start typing the word in upper case, then you can just tab to complete. 
 Like so... (I put the keys to press in square brackets `[ ]`)
