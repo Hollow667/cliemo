@@ -1,4 +1,4 @@
-##Command line Unicode Characters in the Miscellaneous Symbols and Pictographs Block
+##Command Line Unicode Characters in the Miscellaneous Symbols and Pictographs Block
 This is only a list of aliases that map the uppercase name of the symbol/pictograph to the actual symbol or pictograph.
 
 ###Installation 
@@ -22,7 +22,7 @@ Like so... (I put the keys to press in square brackets `[ ]`)
     ~$PINEAPPLE | pbcopy[enter]
     ~$
 
-Now 🍍 is on my clipboard and I can paste it right into my résume using `command+v` or `control+v`. You'll for sure get the gig with some flash picto-shit in your résume!
+Now 🍍 is on my clipboard and I can paste it right into my résume using `command+v` or `control+v`. You'll for sure get the gig with some flashy picto-shit in your résume!
 
 ###How do I search all these pictographs?
 
