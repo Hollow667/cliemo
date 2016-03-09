@@ -42,7 +42,5 @@ Now I know that it's called SLICE\_OF\_PIZZA, not just PIZZA, that's why I could
 ###You're missing a bunch
 
 Yea, I know. this was a quick and dirty list that I put together from Wiki. Feel free to add and to help me out instead of just bitching about it.
+    🍍
 
-
-
-    🐄
