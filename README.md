@@ -5,7 +5,7 @@ This is only a list of aliases that map the uppercase name of the symbol/pictogr
 💻
 
 
-* Paste the contents of `picto_bash_profile` into your `~/.bash_profile` or `/etc/bashrc` 
+* Paste the contents of `cliemo_bash_profile` into your `~/.bash_profile` or `/etc/bashrc` 
 * Then `source ~/.bash_profile`
 
 ###Usage
