@@ -1,16 +1,16 @@
 ##Command Line Unicode Characters in the Miscellaneous Symbols and Pictographs Block
 This is only a list of aliases that map the uppercase name of the symbol/pictograph to the actual symbol or pictograph.
 
-###Installation 
+###Neat, how do I get it? 
 💻
 
 
 * Paste the contents of `cliemo_bash_profile` into your `~/.bash_profile` or `/etc/bashrc` 
-* Then `source ~/.bash_profile`
+* Then `source ~/.bash_profile` or `source /etc/bashrc`
 
-###Usage
-All aliases are UPPERCASE, so to search, you start typing the word in upper case, then you can just tab to complete. 
-Like so... (I put the keys to press in square brackets `[ ]`)
+###How do I do it?
+All aliases are UPPERCASE, so to search, you start typing the word in uppercase, then you can just tab to complete. 
+Like this... (I put the keys to press in square brackets `[ ]`)
 
     ~$ PI[tab]
     PIG    PIG_FACE    PIG_NOSE    PILE_OF_POO  PILL   PINEAPPLE   PINE_DECORATION PISTOL
@@ -22,7 +22,7 @@ Like so... (I put the keys to press in square brackets `[ ]`)
     ~$PINEAPPLE | pbcopy[enter]
     ~$
 
-Now 🍍 is on my clipboard and I can paste it right into my résume using `command+v` or `control+v`. You'll for sure get the gig with some flashy picto-shit in your résume!
+Now 🍍 is on my clipboard and I can paste it right into my résume using `command+v` or `control+v`. 
 
 ###How do I search all these pictographs?
 
@@ -34,9 +34,8 @@ Since it's just a list in your `~/.bash_profile`, you can `grep` it like this...
 
 Now I know that it's called SLICE\_OF\_PIZZA, not just PIZZA, that's why I couldn't find it before.
 
-
 ###You're missing a bunch
 
-Yea, I know. this was a quick and dirty list that I put together from Wiki. Feel free to add and to help me out instead of just bitching about it.
+Yea, I know. this was a quick and dirty list that I put together from Wiki. Feel free to add and to help me out instead of just complaining bout it.
     🍍
 
